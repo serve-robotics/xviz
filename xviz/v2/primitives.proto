@@ -28,7 +28,7 @@ message PrimitiveBase {
 message Circle {
   option (xviz_json_schema) = "primitives/circle";
   PrimitiveBase base = 1;
-  repeated float center = 2;
+  repeated double center = 2;
   float radius = 3;
 }
 
