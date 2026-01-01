@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "@xviz/protobufjs": "6.8.8-p1",
-    "ajv": "^6.5.2",
+    "ajv": "^7.0.0",
     "is": "^3.2.1"
   },
   "devDependencies": {
