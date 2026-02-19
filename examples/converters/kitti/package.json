@@ -8,10 +8,10 @@
   },
   "dependencies": {
     "argparse": "^1.0.10",
-    "binary-parser": "^1.3.2",
+    "binary-parser": "^2.3.0",
     "dotty": "^0.1.0",
     "glob": "^7.1.2",
-    "sharp": "^0.23.0",
+    "sharp": "^0.34.5",
     "uuid": "^3.2.1",
     "xml2json": "^0.11.2"
   },
